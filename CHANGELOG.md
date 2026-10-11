@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Added
+- intro/index.md：从 AGENTS 倒推的需求（五条需求与 devops 该接住的部分）
+
 ## [0.1.0] - 2026-07-07
 
 ### Added
