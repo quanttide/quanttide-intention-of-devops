@@ -6,7 +6,7 @@
 
 ```
 plan     → qtcloud-devops plan       ✅ doctor / edit / status / clean / audit
-code     → qtcloud-devops code       ✅ status / audit
+develop  → qtcloud-devops code       ✅ status / audit
 build    → qtcloud-devops build      ✅ status / clean / audit
 test     → qtcloud-devops test       ✅ status / audit
 release  → qtcloud-devops release    ✅ status / audit / publish
@@ -14,6 +14,8 @@ deploy   → qtcloud-devops deploy     （待实现）
 operate  → qtcloud-devops operate    （待实现）
 monitor  → qtcloud-devops monitor    （待实现）
 ```
+
+`develop` 阶段的命令当前仍为 `code`，改名 `develop` 单独排期。
 
 每个阶段一页命令参考（`docs/handbook/stage/`），格式统一：
 

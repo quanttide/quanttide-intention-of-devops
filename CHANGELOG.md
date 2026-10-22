@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+### Changed
+- stage/index.md：生命周期阶段名 `code` 改为 `develop`，与 `quanttide-code`（软件工程）区分；命令改名单独排期，当前仍为 `code`
+
 ### Added
 - intro/index.md：DevOps 应承担的需求（需求清单、承担划分与验收）
 - README.md：形式化描述——只留指针，约定正文归 `quanttide-meta/data/intention/intro/index.md`
